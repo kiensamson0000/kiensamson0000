@@ -1,8 +1,10 @@
 ### Hey! 👋 
 
+<!--
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=kiensamson0000&show_icons=true&theme=default">
 </a>
+-->
 
 **Full Stack Software Engineer** with **2.5 years of experience**, combining 2 years of expertise in developing engaging, user-centric front-end solutions with 1 year of experience in building robust back-end systems.
 

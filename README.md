@@ -6,7 +6,7 @@
 </a>
 -->
 
-**Full Stack Software Engineer** with **2.5 years of experience**, combining 2 years of expertise in developing engaging, user-centric front-end solutions with 1 year of experience in building robust back-end systems.
+**Full Stack Software Engineer** with **3 years of experience**, combining 3 years of expertise in developing engaging, user-centric front-end solutions with 1.5 years of experience in building robust back-end systems.
 
 Proficient in leveraging modern frameworks and tools to build scalable, high-performance web applications that optimize user experiences and business goals. Experienced in agile methodologies, skilled in collaborative problem-solving, and with a proven ability to rapidly adapt to new technologies, I consistently deliver high-quality solutions.
 
